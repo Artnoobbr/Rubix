@@ -6,8 +6,8 @@ import random
 import asyncpraw
 
 reddit = asyncpraw.Reddit(
-    client_id="DTjHFhgzvy8UNDRJvbAHotIENkaReg",
-    client_secret="iuKD-jsuCm_DipYsy__-GQ",
+    client_id="iuKD-jsuCm_DipYsy__-GQ",
+    client_secret="DTjHFhgzvy8UNDRJvbAHotIENkaReg",
     user_agent="Rubix",
 )
 
