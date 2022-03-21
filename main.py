@@ -45,4 +45,4 @@ if __name__ == '__main__':
 
 
 # Evento para fazer o bot ficar online
-client.run('ODg4NDg2MDA1NzAxNzM4NTQ2.YUTZEw.Hx0uI_JqPp1UVzZ_LU62BxJbm6M')
+client.run('TOKENDOBOT')
